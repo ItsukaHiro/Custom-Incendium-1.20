@@ -10,8 +10,8 @@
             {
               "function": "minecraft:enchant_with_levels",
               "levels": {
-                "min": 23,
-                "max": 39
+                "min": 1,
+                "max": 25
               },
               "treasure": true
             }
@@ -19,7 +19,7 @@
           "conditions": [
             {
               "condition": "minecraft:random_chance_with_looting",
-              "chance": 0.675,
+              "chance": 0.3,
               "looting_multiplier": 0.1
             }
           ]
