@@ -81,6 +81,7 @@
           "conditions": [
             {
               "condition": "minecraft:inverted",
+              "chance": 0.5,
               "term": {
                 "condition": "minecraft:killed_by_player"
               }
