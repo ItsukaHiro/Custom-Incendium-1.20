@@ -60,7 +60,7 @@
         {
           "type": "minecraft:item",
           "weight": 1,
-          "name": "minecraft:redstone",
+          "name": "minecraft:blaze_powder",
           "functions": [
             {
               "function": "minecraft:set_count",
