@@ -12,7 +12,7 @@
               "entity": "this",
               "lore": [
                 {
-                  "translate":"incendium.item.restless_nature.desc1","fallback":"( ͡° ͜ʖ ͡°)",
+                  "translate":"incendium.item.restless_nature.desc1","fallback":"Hiro Gay ( ͡° ͜ʖ ͡°)",
                   "color": "#169e7e",
                   "italic": true
                 },
