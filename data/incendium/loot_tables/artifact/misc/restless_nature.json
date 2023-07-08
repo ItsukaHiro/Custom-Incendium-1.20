@@ -12,7 +12,7 @@
               "entity": "this",
               "lore": [
                 {
-                  "translate":"incendium.item.restless_nature.desc1","fallback":"A seed infused by spirits",
+                  "translate":"incendium.item.restless_nature.desc1","fallback":"( ͡° ͜ʖ ͡°)",
                   "color": "#169e7e",
                   "italic": true
                 },
