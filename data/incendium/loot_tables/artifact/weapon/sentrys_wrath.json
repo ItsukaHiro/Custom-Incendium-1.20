@@ -10,7 +10,7 @@
             {
               "function": "minecraft:set_enchantments",
               "enchantments": {
-                "minecraft:mending": 1,
+                "minecraft:unbreaking": 5,
                 "minecraft:piercing": 6
               }
             },
@@ -18,17 +18,17 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "translate":"incendium.item.firestorm.desc1","fallback":"Turns spectral arrows into",
+                  "translate":"incendium.item.firestorm.desc1","fallback":"Biến mũi tên ma quỷ thành",
                   "color": "#0077bb",
                   "italic": true
                 },
                 {
-                  "translate":"incendium.item.sentrys_wrath.desc2","fallback":"a slow, powerful attack.",
+                  "translate":"incendium.item.sentrys_wrath.desc2","fallback":"1 phát bắn chậm nhưng cực mạnh.",
                   "color": "#0077bb",
                   "italic": true
                 },
                 {
-                  "translate":"incendium.item.sentrys_wrath.desc3","fallback":"Beware the cooldown.",
+                  "translate":"incendium.item.sentrys_wrath.desc3","fallback":"Cẩn thận Cooldown.",
                   "color": "#0077bb",
                   "italic": true
                 },
