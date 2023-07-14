@@ -10,7 +10,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{StoredEnchantments:[{id:\"mending\",lvl:1}]}"
+              "tag": "{StoredEnchantments:[{id:\"unbreaking\",lvl:3}]}"
             }
           ]
         }
