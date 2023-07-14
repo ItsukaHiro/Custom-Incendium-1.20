@@ -29,7 +29,6 @@
                 "min": 10,
                 "max": 25
             },
-            "treasure": true,
           ]
         }
       ],
