@@ -9,7 +9,7 @@
           "functions": [
             {
               "function": "minecraft:set_nbt",
-              "tag": "{Enchantments:[{id:\"blast_protection\",lvl:4}]}"
+              "tag": "{Enchantments:[{id:\"protection\",lvl:6}]}"
             }
           ]
         }
