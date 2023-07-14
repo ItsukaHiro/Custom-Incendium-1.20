@@ -10,8 +10,7 @@
             {
               "function": "minecraft:set_enchantments",
               "enchantments": {
-                "minecraft:unbreaking": 8,
-                "minecraft:mending": 1
+                "minecraft:unbreaking": 8
               }
             },
             {
@@ -26,12 +25,12 @@
               "function": "minecraft:set_lore",
               "lore": [
                 {
-                  "translate":"incendium.item.withersbane.desc1","fallback":"An ancient blade to smite",
+                  "translate":"incendium.item.withersbane.desc1","fallback":"Kiếm vàng, nhưng cực bền.",
                   "color": "#ffdd66",
                   "italic": true
                 },
                 {
-                  "translate":"incendium.item.withersbane.desc2","fallback":"the impurity from the Nether",
+                  "translate":"incendium.item.withersbane.desc2","fallback":"Ngoài bền ra chẳng có gì cả (lmao)",
                   "color": "#ffdd66",
                   "italic": true
                 },
