@@ -20,12 +20,12 @@
               "entity": "this",
               "lore": [
                 {
-                  "translate":"incendium.item.firestorm.desc1","fallback":"Turns spectral arrows into",
+                  "translate":"incendium.item.firestorm.desc1","fallback":"Khiến mũi tên ma quỷ",
                   "color": "#eb783f",
                   "italic": true
                 },
                 {
-                  "translate":"incendium.item.firestorm.desc2","fallback":"a powerful lightning attack",
+                  "translate":"incendium.item.firestorm.desc2","fallback":"bắn ra sấm sét trên đường bay",
                   "color": "#eb783f",
                   "italic": true
                 },
